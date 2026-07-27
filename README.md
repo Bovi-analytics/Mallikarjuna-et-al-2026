@@ -6,6 +6,9 @@ Retrospective tracing of multivariable biological and laboratory risk patterns a
 ### Interpretive Summary
 Large Offspring Syndrome (LOS) is a rare but significant complication of assisted reproductive technology in cattle that affects animal health, farm profitability, and raises concerns about animal welfare. Using a unique combination of machine learning and statistical models on a dataset acquired from a farm, we identified biological, and laboratory patterns associated with LOS, including cattle age, treatment protocols, laboratory and environment metrics contributing to the cause. In addition to identifying potential risk patters, the study demonstrates how creating a complementary multi-model approach can better define the results than solely relying on a single methodology especially when understanding complex disease patterns is the goal.
 
+### LOS Overview
+Large offspring syndrome (LOS) is an epigenetic condition in cattle associated with assisted reproductive technology (ART). While key symptoms include a multitude of pathological features, dystocia, difficulty in breathing and suckling, and increased birth weight remains to be a predominant one. Currently there is no standardized early diagnosis that can help identify LOS in livestock. Different biological and operational situations have been identified to result in LOS; however, none of the symptoms have been observed universally.
+
 ### Project Overview
 The dataset consists of:
 - 1,171 in vitro cycle records
