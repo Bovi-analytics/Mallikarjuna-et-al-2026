@@ -125,7 +125,7 @@ The farm and laboratory records belong to the commercial farm and the embryo-pro
 Requests for the laboratory data should be directed to the laboratory and are subject to its permission. Requests for the farm data should be directed to the corresponding author and are subject to the farm's permission.
 
 ### Citation
-[Authors]. Linking farm and laboratory records to identify risk patterns of large offspring syndrome-compatible events in bovine in vitro embryo production. Theriogenology [year; volume; pages; DOI – to be added on publication].
+Linking farm and laboratory records to identify risk patterns of large offspring syndrome-compatible events in bovine in vitro embryo production. Theriogenology [year; volume; pages; DOI – to be added on publication].
 
 ### Contact
 Lipika Mallikarjuna, Department of Animal Science, Cornell University – lm2225@cornell.edu
