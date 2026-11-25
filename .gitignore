@@ -1,0 +1,14 @@
+# Farm and laboratory records are not shared (see README, Data availability)
+raw_data/
+*.csv
+*.xlsx
+*.xls
+*.rds
+*.RData
+# Names of the data providers' files, sheets and fields (kept with the data)
+file_names.R
+# Outputs written by the notebook
+Figures/
+Tables/
+Outputs/
+.ipynb_checkpoints/
